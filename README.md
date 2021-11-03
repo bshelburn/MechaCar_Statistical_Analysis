@@ -10,7 +10,9 @@ The requests include multiple linear regression analysis to identify which Mecha
 ### Deliverable 1
 <img width="517" alt="Screen Shot 2021-11-02 at 5 50 31 PM" src="https://user-images.githubusercontent.com/84201082/139956765-230ca392-5f77-41d0-aef8-059450d5bb70.png">
 
-Summary
+#### Summary
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+  - The variables which showed the most non random effect on the prototype appear to be the Length and Ground clearance of the vehicle.
+   
 - Is the slope of the linear model considered to be zero? Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
