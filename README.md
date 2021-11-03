@@ -19,3 +19,12 @@ The requests include multiple linear regression analysis to identify which Mecha
   
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   - Yes the linear model does predict the MPG of the MechaCar with decent effectiveness since it shows an approx. 71% accuracy in the Multiple R2 return in the       second to last row of the summary.
+
+### Deliverable 2
+
+<img width="642" alt="Screen Shot 2021-11-03 at 1 39 13 PM" src="https://user-images.githubusercontent.com/84201082/140162998-69e64ed6-91fc-48e3-a259-62628585a800.png">
+
+
+#### Summary
+- The suspension coil’s PSI continuous variable across all manufacturing lots.
+- The following PSI metrics for each lot: mean, median, variance, and standard deviation.
