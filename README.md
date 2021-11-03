@@ -34,6 +34,12 @@ The overall Variance in the Total Summary table shows well below 100 PSI however
 ### Deliverable 3
 #### PSI across all manufacturing lots
 <img width="401" alt="Screen Shot 2021-11-03 at 2 08 43 PM" src="https://user-images.githubusercontent.com/84201082/140167755-ea2ab4a6-f9ae-40fe-97b2-eaa09e805266.png">
-- 
+- The T-test across all suspension coils across all lots shows they re not different from the population mean
 
 #### PSI for each manufacturing lot
+<img width="401" alt="Screen Shot 2021-11-03 at 2 17 00 PM" src="https://user-images.githubusercontent.com/84201082/140169003-8b1a447b-82ef-4da6-96c0-4a712b18fc0f.png">
+
+<img width="401" alt="Screen Shot 2021-11-03 at 2 18 43 PM" src="https://user-images.githubusercontent.com/84201082/140169285-29b60539-0add-4301-8d24-7258ddad20c1.png">
+
+
+<img width="401" alt="Screen Shot 2021-11-03 at 2 17 37 PM" src="https://user-images.githubusercontent.com/84201082/140169130-0b36acc3-b01b-442a-acc9-2d06a259736b.png">
