@@ -15,4 +15,7 @@ The requests include multiple linear regression analysis to identify which Mecha
   - The variables which showed the most non random effect on the prototype appear to be the Length and Ground clearance of the vehicle.
    
 - Is the slope of the linear model considered to be zero? Why or why not?
+  -  No, the slope of the linear model cannot be considered zero as the p-value at the bottom of the summary shows 5.35e-11.
+  
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  - Yes the linear model does predict the MPG of the MechaCar with decent effectiveness since it shows an approx. 71% accuracy in the Multiple R2 return in the       second to last row of the summary.
