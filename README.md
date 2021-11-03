@@ -44,4 +44,7 @@ The overall Variance in the Total Summary table shows well below 100 PSI however
 -- Results of Lot 2 of suspension coils shows just like the overall they are not different from the population mean
 
 <img width="401" alt="Screen Shot 2021-11-03 at 2 17 37 PM" src="https://user-images.githubusercontent.com/84201082/140169130-0b36acc3-b01b-442a-acc9-2d06a259736b.png">
-- Similar to results from Deliv 2 Lot 3 shows they are statistically different from the popu;ation mean unlike Lot 1 & 2.
+- Similar to results from Deliv 2, Lot 3 shows they are statistically different from the population mean unlike Lot 1 & 2.
+
+### Deliverable 4
+In addition to the metrics evaluated above.
