@@ -47,4 +47,4 @@ The overall Variance in the Total Summary table shows well below 100 PSI however
 - Similar to results from Deliv 2, Lot 3 shows they are statistically different from the population mean unlike Lot 1 & 2.
 
 ### Deliverable 4
-In addition to the metrics evaluated above.
+In addition to the metrics evaluated above I beleive that evaluating horsepower vs. fuel efficiancy would be very interesting.   I beleive that the more horsepower an egine has given vehicles with similar weight the less fuel efficient the vehicle is.   We would need the displacement and horsepower ratings in addition to including the weight and associated aerodynamic performnances of the cars to determine hoe MechaCar would compare to the competition.
