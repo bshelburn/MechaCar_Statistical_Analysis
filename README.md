@@ -28,5 +28,11 @@ The requests include multiple linear regression analysis to identify which Mecha
 <img width="642" alt="Screen Shot 2021-11-03 at 1 39 13 PM" src="https://user-images.githubusercontent.com/84201082/140162998-69e64ed6-91fc-48e3-a259-62628585a800.png">
 
 #### Summary
-The overall Variance in the Total Summary table shows well below 100 PSI however when looking at the breakdown of the 3 lots, "Lot 3" is much higher than the other two at approx 170 compared to 0.97 and 7.46.
+The overall Variance in the Total Summary table shows well below 100 PSI however when looking at the breakdown of the 3 lots, "Lot 3" is much higher than the other two at approx 170 compared to 0.97 and 7.46 and the the PSI limit was not to exceed 100.
 
+
+### Deliverable 3
+#### PSI across all manufacturing lots
+
+
+#### PSI for each manufacturing lot
