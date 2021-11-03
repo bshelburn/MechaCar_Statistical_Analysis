@@ -25,7 +25,7 @@ The requests include multiple linear regression analysis to identify which Mecha
 <img width="491" alt="Screen Shot 2021-11-03 at 1 41 34 PM" src="https://user-images.githubusercontent.com/84201082/140163284-10e0cc55-29b4-4d8b-9d76-338cf4512126.png">
 
 - The following PSI metrics for each lot: mean, median, variance, and standard deviation.
-- <img width="642" alt="Screen Shot 2021-11-03 at 1 39 13 PM" src="https://user-images.githubusercontent.com/84201082/140162998-69e64ed6-91fc-48e3-a259-62628585a800.png">
+<img width="642" alt="Screen Shot 2021-11-03 at 1 39 13 PM" src="https://user-images.githubusercontent.com/84201082/140162998-69e64ed6-91fc-48e3-a259-62628585a800.png">
 
 #### Summary
 
