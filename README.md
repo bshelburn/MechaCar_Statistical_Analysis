@@ -4,7 +4,7 @@ Perform a statystical analysis of Auto performance metrics using R.
 ## Overview 
 After completing the initial analysis tasks management has approached Jeremy about AutoRUs' new MechaCar prototype which is suffering production issues that are effecting the manufacturing team.   Our team has been asked to review the given production data to help provide insight to the manufacturing team.
 
-The requests include multiple linear regression analysis to identify which MechaCar variables contribute to predicting the MPG of the prototypes, summary statistics on the PSI of the suspension coils from the manufacturing tools, t-tests determining if the lots are statistically different from the mean, and a statistical study comparing the performance of the MechaCar against competing manufacturers.
+The requests include multiple linear regression analysis to identify which MechaCar variables contribute to predicting the MPG of the prototypes, summary statistics on the PSI of the suspension coils, t-tests determining if the lots are statistically different from the mean, and a statistical study comparing the performance of the MechaCar against competing manufacturers.
 
 ## Results
 ### Deliverable 1
@@ -21,10 +21,10 @@ The requests include multiple linear regression analysis to identify which Mecha
   - Yes the linear model does predict the MPG of the MechaCar with decent effectiveness since it shows an approx. 71% accuracy in the Multiple R2 return in the       second to last row of the summary.
 
 ### Deliverable 2
-- The suspension coil’s PSI continuous variable across all manufacturing lots.
+- The suspension coil’s PSI continuous variable across all manufacturing lots
 <img width="491" alt="Screen Shot 2021-11-03 at 1 41 34 PM" src="https://user-images.githubusercontent.com/84201082/140163284-10e0cc55-29b4-4d8b-9d76-338cf4512126.png">
 
-- The following PSI metrics for each lot: mean, median, variance, and standard deviation.
+- The following PSI metrics for each lot: mean, median, variance, and standard deviation
 <img width="642" alt="Screen Shot 2021-11-03 at 1 39 13 PM" src="https://user-images.githubusercontent.com/84201082/140162998-69e64ed6-91fc-48e3-a259-62628585a800.png">
 
 #### Summary
@@ -44,7 +44,7 @@ The overall Variance in the Total Summary table shows well below 100 PSI however
 -- Results of Lot 2 of suspension coils shows just like the overall they are not different from the population mean
 
 <img width="401" alt="Screen Shot 2021-11-03 at 2 17 37 PM" src="https://user-images.githubusercontent.com/84201082/140169130-0b36acc3-b01b-442a-acc9-2d06a259736b.png">
-- Similar to results from Deliv 2, Lot 3 shows they are statistically different from the population mean unlike Lot 1 & 2.
+- Similar to results from Deliv 2, Lot 3 shows they are statistically different from the population mean unlike Lot 1 & 2
 
 ### Deliverable 4
 In addition to the metrics evaluated above I beleive that evaluating horsepower vs. fuel efficiancy would be very interesting.   I beleive that the more horsepower an egine has given vehicles with similar weight the less fuel efficient the vehicle is.   We would need the displacement and horsepower ratings in addition to including the weight and associated aerodynamic performnances of the cars to determine hoe MechaCar would compare to the competition.
