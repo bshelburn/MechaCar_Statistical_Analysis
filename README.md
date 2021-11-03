@@ -33,6 +33,7 @@ The overall Variance in the Total Summary table shows well below 100 PSI however
 
 ### Deliverable 3
 #### PSI across all manufacturing lots
-
+<img width="401" alt="Screen Shot 2021-11-03 at 2 08 43 PM" src="https://user-images.githubusercontent.com/84201082/140167755-ea2ab4a6-f9ae-40fe-97b2-eaa09e805266.png">
+- 
 
 #### PSI for each manufacturing lot
